@@ -1,2 +1,2 @@
 # Codes
-A collection of C# codes
+A collection of C# codes samples to use in projects.
